@@ -2,7 +2,6 @@ from aiogram import Bot, Dispatcher,executor, types
 import logging
 from downloader import YouTubeDownloader, PlayOnYouTube
 import os
-import pywhatkit
 
 logging.basicConfig(level=logging.INFO)
 
